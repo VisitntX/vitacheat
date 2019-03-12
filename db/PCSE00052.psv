@@ -8,11 +8,11 @@
 # Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSE00052.psv
 # Original Source: https://github.com/r0ah/vitacheat/issues/41
 
-_V0 999999999 Lums
-$0200 825D0034 3B9AC9FF
+_V0 999 Lums
+$0200 825CC424 000003E7
 
-_V0 Stop Timer 1 sec
-$0200 825D0068 3F800000
+_V0 Freeze Time
+$0200 825CC458 411599B9
 
 _V0 Infinite Lives [Note 1]
 $3201 82355218 000009BC
